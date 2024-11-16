@@ -1,7 +1,7 @@
 #!/bin/bash
-#𝐒𝐌𝐀𝐑𝐓 𝐓𝐔𝐍𝐍𝐄𝐋
-#𝐒𝐦𝐚𝐫𝐭𝐱𝐇𝐚𝐜𝐤𝐞𝐫
-#@farhanansari_888
+#Free Internet Service 
+#FisxArsh
+#@Fisxowner786
 clear
 #=========================================================================================================================
 
@@ -343,16 +343,15 @@ apt autoremove -y
 rm -fr /etc/issue.net
 cat> /etc/issue.net << END
 </strong> <p style="text-align:center"><b> <br><font
-color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>SMART
-TUNNEL<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font
+color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>FisxArs<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font
 color="#00FF00"></strong> <p style="text-align:center"><b> <br><font
-color="00FF00"> WELCOME TO SMART TUNNEL </b></font><br><font
+color="00FF00"> WELCOME TO Free Internet Service</b></font><br><font
 color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF> <font
 color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜᴇ No
 Mining </font><br> <font color="#00FF00">❖Ƭʜᴇ No Hacking</font><br>
-<font color="#00FF00">▄︻ デ SMART TUNNEL══━一  </font><br> <font
+<font color="#00FF00">▄︻ デ FisxArsh ══━一  </font><br> <font
 color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font
-color="red">@farhanansari_888</font><br>
+color="red">@Fisxowner786</font><br>
 END
 cd
 chown -R www-data:www-data /home/vps/public_html
